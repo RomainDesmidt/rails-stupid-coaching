@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+font-family: 'Diplomata SC', cursive;
+}
+
+p {
+font-family: 'Griffy', cursive;
+}
+
